@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [rootsec.me](rootsec.me)
 
-- 📫 How to reach me **jonathan@complexsecurity.io**
+- 📫 Reach out to me: **jonathan@rootsec.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
