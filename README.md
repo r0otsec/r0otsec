@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm r00tsec</h1>
 <h3 align="center">A penetration testing consultant with a particular interest in phishing, red teaming and SAP vulnerabilities.</h3>
 
-- 🔭 I’m currently working on my BSides London talk: [SAPPIN' the Enterprise](https://github.com/r0otsec/SAPPIN-the-Enterprise)
+- 🔭 I’m currently working on my BSides London talk: [SAPPIN' the Enterprise](https://github.com/r0otsec/SAPPIN-the-Enterprise) and a blog series on [SCCM exploitation](https://www.rootsec.me/blog).
 
 - 🪝 Phishing IaC deployment tool: [LureKit](https://github.com/r0otsec/LureKit)
 
